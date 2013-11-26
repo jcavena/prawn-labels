@@ -19,8 +19,8 @@ Avery5160:
     paper_size: LETTER
     top_margin: 36
     bottom_margin: 36
-    left_margin: 16
-    right_margin: 16
+    left_margin: 20
+    right_margin: 20
     columns: 3
     rows: 10
     column_gutter: 15
